@@ -20,10 +20,10 @@ Built for gaming communities, modded servers, or any Discord server that needs S
 
 ## 📦 Installation
 
-```bash
 git clone https://github.com/xyn4xdev-lab/discord-steam-auth.git
 cd discord-steam-auth
 npm install
+
 ````
 
 ---
