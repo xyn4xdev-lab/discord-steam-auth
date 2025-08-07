@@ -22,7 +22,7 @@ Built for gaming communities, modded servers, or any Discord server that needs S
 
 git clone https://github.com/xyn4xdev-lab/discord-steam-auth.git
 cd discord-steam-auth
-npm install
+npm install if it doesnt work do npm install express dotenv discord.js passport passport-steam express-session uuid node-fetch
 
 ````
 
