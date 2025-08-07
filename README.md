@@ -95,7 +95,7 @@ Make sure ports are open if you're hosting on a VPS.
 ## 🙏 Credits
 
 Built by [xyn4x](https://github.com/xyn4xdev-lab).
-Inspired by SteamCord, and Passport-based login systems.
+Passport-based login systems.
 
 ---
 
