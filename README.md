@@ -102,5 +102,3 @@ Inspired by SteamCord, and Passport-based login systems.
 ## 📄 License
 
 This project is licensed under the [MIT License](./LICENSE).
-
-```
